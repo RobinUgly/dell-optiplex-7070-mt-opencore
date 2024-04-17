@@ -1,6 +1,6 @@
 # dell-optiplex-7070-mt-opencore
 
-支持macos 11、12、13
+支持macos 11、12、13（已测试）
 
 14理论上支持，但体验会卡顿，开机慢，不建议升级
 
