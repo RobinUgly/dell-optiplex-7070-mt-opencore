@@ -1,4 +1,5 @@
 # dell-optiplex-7070-mt-opencore
+https://github.com/RobinUgly/dell-optiplex-7070-mt-opencore/blob/main/%E6%88%AA%E5%B1%8F2025-08-28%2012.28.49.png
 
 支持macos 11、12、13（已测试）
 
